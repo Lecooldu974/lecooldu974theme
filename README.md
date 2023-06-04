@@ -1,4 +1,4 @@
-# ![LecoolTheme]![Design_sans_titre__1_-removebg-preview](https://github.com/Lecooldu974/lecooldu974theme/assets/93920182/ad09835d-bf05-4dc6-907c-776c53f0cf61)
+# [Design_sans_titre__1_-removebg-preview](https://github.com/Lecooldu974/lecooldu974theme/assets/93920182/ad09835d-bf05-4dc6-907c-776c53f0cf61)
 
 A sleek, customizable Discord theme, inspired by Material.
 
