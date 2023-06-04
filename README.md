@@ -1,21 +1,9 @@
-# [Design_sans_titre__1_-removebg-preview](https://github.com/Lecooldu974/lecooldu974theme/assets/93920182/ad09835d-bf05-4dc6-907c-776c53f0cf61)
+# ![Design sans titre (1)](https://github.com/Lecooldu974/lecooldu974theme/assets/93920182/ae174286-11d2-45a6-862a-ef53c049906f)
 
-A sleek, customizable Discord theme, inspired by Material.
+LE thème développé par Lecooldu974 regroupant tout son univers !
 
-![Screenshot of Discord+ in dark theme](https://cdn.discordapp.com/attachments/560369937084973067/852549506298150922/unknown.png)
-![Screenshot of Discord+ in light theme](https://cdn.discordapp.com/attachments/560369937084973067/852549509154471946/unknown.png)
+![image](https://github.com/Lecooldu974/lecooldu974theme/assets/93920182/5ad097d9-73de-40d9-af8d-cd8e3e774c02)
 
-**Discord+** is a theme for [Discord](https://discord.com). It's both sleek and customizable, without getting in your way. Its top priority is balancing between looks and performance.
+**Lecool Theme** est un thème pour [Discord](https://discord.com). Il est à la fois pratique et convient avec pleins de plugins et thèmes. Nous essayons de miser entre la qualité et les performances.
 
-## User customization
-This theme is **very customizable**.
-The variables in the theme file allow you to change many things, including but not limited to:
-* Background image
-* Accent color
-* Up to three fonts
-* Home icon
-* Background cover colors
-* UI corner roundness
-* Overall spacing
-
-If customizing the theme is difficult, [my Discord server](https://discord.gg/invite/2Jwh2nS) has a detailed FAQ with answers to common questions! If that still doesn't solve your problem, someone may volunteer to help you in the #get-help channel.
+Si vous souhaitez changer quelques réglages de notre thème, merci de rejoindre [notre serveur discord](https://discord.gg/invite/KpmseCatPG) et de créer un ticket.
