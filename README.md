@@ -1,4 +1,4 @@
-# ![Discord+ [(https://github.com/Lecooldu974/lecooldu974theme/blob/main/assets/Design_sans_titre__1_-removebg-preview.png)]
+# ![Discord+](![Design_sans_titre__1_-removebg-preview](https://github.com/Lecooldu974/lecooldu974theme/assets/93920182/23ec51c1-3686-405d-9f24-42e44132963b))
 A sleek, customizable Discord theme, inspired by Material.
 
 ![Screenshot of Discord+ in dark theme](https://cdn.discordapp.com/attachments/560369937084973067/852549506298150922/unknown.png)
