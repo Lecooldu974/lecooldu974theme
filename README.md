@@ -6,4 +6,6 @@ LE thème développé par Lecooldu974 regroupant tout son univers !
 
 **Lecool Theme** est un thème pour [Discord](https://discord.com). Il est à la fois pratique et convient avec pleins de plugins et thèmes. Nous essayons de miser entre la qualité et les performances.
 
+Si ce thème vous plaît, vous pouvez retrouver notre autre thème qui regroupe tout notre univers sur [notre autre page Github !](https://github.com/Lecooldu974/lecooldu974theme2)
+
 Si vous souhaitez changer quelques réglages de notre thème, merci de rejoindre [notre serveur discord](https://discord.gg/invite/KpmseCatPG) et de créer un ticket.
